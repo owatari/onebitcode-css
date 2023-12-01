@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://rare-gallery.com/uploads/posts/504721-Geometry-Mountain.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: #ffc9df;
+    background-color: #6e6e6e;
+    width: 330px;
+}
+
+main {
+    color: #ffc9df;
+    background-color: #6e6e6e;
+    border-width: 2px;
+    border-color: #000;
+    border-style: double;
+}
+
+.box1 {
+    color: #000;
+    background-color: purple;
+    border: solid 2px #000;
+    width: 42px;
+}
+
+.box2 {
+    color: #000;
+    background-image: linear-gradient(to right, #ffc9df, #fff);
+    width: 42px;
+    border-top: 2px dotted #000;
+}
+
+.box3 {
+    color: #000;
+    background-color: aqua;
+    border: 2px solid #000;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 42px;
+}

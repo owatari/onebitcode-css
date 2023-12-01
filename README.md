@@ -1,1 +1,1 @@
-Conteúdo referente às aulas de CS.
+Conteúdo referente às aulas de CSS.
