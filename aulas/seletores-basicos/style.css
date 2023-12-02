@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header,  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #ffbfef;
+}
+
+nav > a {
+    display: block;
+    columns: #f5a623;
+}
+
+.laranja {
+    color: orange;
+}
+
+.verde {
+    color: green;
+}
+
+#secao-principal {
+    padding: 20px;
+    text-align: center;
+}
+
+#secao-principal > * {
+    margin-top: 10px;
+}
+
+input {
+    display: block;
+    padding: 5px;
+    margin: 5px;
+}
+
+input + input {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2 + p {
+    padding: 30px;
+}
+
+input[name="email"] {
+    background-color: orange;
+}
+
+input[name="password"]  {
+    background-color: green;
+}

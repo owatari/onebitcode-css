@@ -1,0 +1,106 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+header {
+    margin: 1rem 1rem;
+}
+
+header h1  {
+    font-weight: bold;
+}
+
+.intro {
+    margin: 1rem;
+    font-weight: 400;
+}
+
+.intro h2 {
+    font-weight: 400;
+}
+
+.intro a {
+    background-color: #333;
+    display: inline-block;
+    border-radius: 2rem;
+    padding-inline: 1rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    margin: 1.5rem;
+    font-weight: bold;
+}
+
+img {
+    height: 30vh;
+}
+
+.explore {
+    margin: 2rem;
+}
+
+.explore h2  {
+    font-weight: 400;
+}
+
+.explore a {
+    background-color: skyblue;
+    display: inline-block;
+    border-radius: 2rem;
+    padding-inline: 1rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 1.5rem;
+    margin-left: 0.5rem;
+    font-weight: 400;
+}
+
+#more {
+    background-color: #333;
+    display: inline-block;
+    border-radius: 2rem;
+    padding-inline: 1rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 1.5rem;
+    margin-left: 0.5rem;
+    font-weight: bold;
+}
+
+.sub {
+    margin-top: 2.5rem;
+}
+
+.sub h2 {
+    font-weight: 400;
+}
+
+.sub a {
+    background-color: #333;
+    display: inline-block;
+    border-radius: 2rem;
+    padding-inline: 1rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    margin: 1rem;
+    font-weight: bold;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding-block: 1rem;
+}

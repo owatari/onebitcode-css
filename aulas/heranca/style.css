@@ -1,0 +1,17 @@
+header {
+    background-color: #232323;
+    columns: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.parent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+    color: red;
+}
+
+.child {
+    font-size: 2rem;
+    color: green;
+}
